@@ -4,7 +4,7 @@
 * 9.9.9.9
 * 149.112.112.112
 
-## Caution
+## Caution:
 It is not guaranteed to work on Cellular Networks on all Devices
 
 ## Requirements:
@@ -12,6 +12,7 @@ Magisk installed (v17+)
 
 ## Changelog
 * v1 (Initial Release)
+
 
 ## Links
 * [![XDA Thread](https://img.shields.io/badge/XDA-Thread-orange.svg)](https://forum.xda-developers.com/apps/magisk/module-quad9dns4magisk-t3905287)
