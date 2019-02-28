@@ -1,10 +1,8 @@
 <img src="https://s17.directupload.net/images/190228/3wzn2p2x.png">
 
-## This Module makes your Device to use Quad9 DNS Servers:
+######## This Module makes your Device to use Quad9 DNS Servers:
 * 9.9.9.9
 * 149.112.112.112
-
-
 
 ## Caution:
 It is not guaranteed to work on Cellular Networks on all Devices
