@@ -99,7 +99,7 @@ set_permissions() {
 # difficult for you to migrate your modules to newer template versions.
 # Make update-binary as clean as possible, try to only do function calls in it.
 
-# Edit the resolv conf file if it exist
+# Edit the resolv.conf file if it exist
 resolve_conf() {
 	mount -o ro /system 2>/dev/null
 	
